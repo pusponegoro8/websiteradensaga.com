@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "title": "Portfolio Pribadi Lengkap",
+      "tags": ["HTML", "CSS", "JavaScript"],
+      "description": "Website portofolio modern responsif dengan theme toggle, animasi, form interaktif, dan auto-WA.",
+      "url": "https://github.com"
+    },
+    {
+      "title": "Toko Online Ecommerce",
+      "tags": ["PHP", "MySQL", "Admin Panel"],
+      "description": "Sistem toko lengkap: cart, checkout, dashboard admin, database SQL.",
+      "url": "../ecommerce/"
+    },
+    {
+      "title": "Sistem Absensi Sekolah",
+      "tags": ["PHP", "QR Code", "Dashboard"],
+      "description": "Absensi digital dengan scan QR, laporan realtime, dan manajemen siswa.",
+      "url": "../absensi_project_full_v2/"
+    },
+    {
+      "title": "Pisang Goreng Ceisya Rasa",
+      "tags": ["HTML", "CSS", "Responsive"],
+      "description": "Website produk makanan dengan animasi dan ordering system.",
+      "url": "../POS_Pisang_Goreng_Ceisya_Rasa_PREMIUM_FINAL/"
+    },
+    {
+      "title": "Desain Branding Lokal",
+      "tags": ["Photoshop", "Illustrator", "Logo"],
+      "description": "Logo, poster, dan identitas visual untuk bisnis UMKM Jombang.",
+      "url": "#kontak"
+    },
+    {
+      "title": "Landing Page Event",
+      "tags": ["HTML", "GSAP", "Animasi"],
+      "description": "Promosi event dengan scroll-triggered animations dan form registrasi.",
+      "url": "#"
+    }
+  ]
+}
